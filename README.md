@@ -1,2 +1,2 @@
 # IOS-Calculator
-https://rishabhdarji.github.io/IOS-Calculator/
+https://rishabhdarji.github.io/ios-calculator/
